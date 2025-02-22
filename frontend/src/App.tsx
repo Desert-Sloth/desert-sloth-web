@@ -15,7 +15,7 @@ function App() {
   return (
     <Router>
      <div className="grid-container"> 
-        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="index.css"/>
         <body>
          <div>
             <header className="header">
@@ -47,7 +47,7 @@ function App() {
                   </Routes>
             </main>
             <footer className="footer">
-                &copy; 2024 Desert Slot
+                &copy; 2024 Desert Sloth
             </footer>
         </div>
     </body>
